@@ -29,10 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://github.com/megsfulton/Tipper/blob/master/TipperVideo.mp4" target="_blank"><img src='https://github.com/megsfulton/Tipper/blob/master/Tipper.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://www.dropbox.com/s/tuxx5rj8fe9t079/TipperVideo.mp4" target="_blank"><img src='https://github.com/megsfulton/Tipper/blob/master/Tipper.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-Video created with Reflector 
+GIF created with [LiceCap](http://www.cockos.com/licecap/). 
+Video created with [Reflector](http://www.airsquirrels.com/reflector/features/mac/). 
 
 ## Notes
 
