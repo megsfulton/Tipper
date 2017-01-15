@@ -10,20 +10,20 @@ Time spent: 30 hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] UI animations
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] UI animations
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
-- [ ] The screen brightness is detected on launch to display a light or dark UI depending on the light level of the environment
-- [ ] Manual changes in screen brightness are detected and the UI color adjusts accordingly 
-- [ ] Two finger swipe up to change the UI to be light. Two finger swipe down to change the UI to be dark
-- [ ] Ability to split the bill between 1-4 people
-- [ ] Custom Keyboard
-- [ ] Appending “$” to the beginning of the bill amount 
-- [ ] Disabling "0" or "." from being the first entry in the bill field
+- [x] The screen brightness is detected on launch to display a light or dark UI depending on the light level of the environment
+- [x] Manual changes in screen brightness are detected and the UI color adjusts accordingly 
+- [x] Two finger swipe up to change the UI to be light. Two finger swipe down to change the UI to be dark
+- [x] Ability to split the bill between 1-4 people
+- [x] Custom Keyboard
+- [x] Appending “$” to the beginning of the bill amount 
+- [x] Disabling "0" or "." from being the first entry in the bill field
 
 ## Video Walkthrough 
 
