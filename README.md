@@ -44,3 +44,18 @@ There are a number of tutorials on how to create a system wide custom keyboard a
 Appending $ to the beginning of the bill field
 I thought this would be a fairly straightforward detail to add but it required quite a bit of management of the billField string by detecting the length of the string and appending or removing the $ depending on whether or not a number was entered in the field. 
 
+## License
+
+    Copyright [2017] [Megs Fulton]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
